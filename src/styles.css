@@ -1,0 +1,30 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+footer {
+  /*position: static;
+  bottom: 0px;
+  right: 0px;
+  left: 0px; */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-color: #512D6D;
+  
+} 
+
+.footerColor {
+  background-color: #512D6D;
+}
+
+
